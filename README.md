@@ -66,13 +66,14 @@ This is a TODO list webpage developed using HTML, CSS and Javascript
         - <s>total tasks this week</s>
     - <s>Determine at which point mag stringify and parse to mantain utilization of localStorage</s>
 
+#### Node/Tab/Page/Stage: Release/Live/Deploy
+1. Create and setup repository using webpack:
+    - <s>HtmlWebpackPlugin: for bundling</s>
+    - <s>HtmlWebpackTemplate (optional)</s>
+    - <s>CopyPlugin (used in coffe page project)</s>
+    - <s>Push all changes on github repository once done</s>
+    - <s>Deploy to GitHub Pages</s>
+    
 #### Node/Tab/Page/Stage: Enhancement/Improvement
 1. Add button to clear cache [delete localStorage]
 2. Add feature of user login
-
-#### Node/Tab/Page/Stage: Release/Live/Deploy
-1. Create and setup repository using webpack, test:
-    - HtmlWebpackPlugin: for bundling
-    - HtmlWebpackTemplate (optional)
-    - CopyPlugin (used in coffe page project)
-    Then push all changes on github repository once done
